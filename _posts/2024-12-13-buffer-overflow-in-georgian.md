@@ -1,8 +1,8 @@
 ---
 title: "Buffer Overflow ქართულად"
-date: 2024-12-23 00:00:00
+date: 2024-12-23 00:00:00 -0800
 categories: Explanations, ქართულად
-tags: ახსნა,ქართულად,tutorials,explanaton
+tags: ახსნა, ქართულად, tutorials, explanaton
 ---
 
 # რა არის Buffer?
