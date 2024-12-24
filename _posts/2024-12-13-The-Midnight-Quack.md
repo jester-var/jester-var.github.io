@@ -8,6 +8,8 @@ tags: HID Wireshark ProtocolAnalysis
 
 # Part 1
 
+## Description
+
 Challenges in this category will reference the same file(s).
 
 What is the flag found in the file provided?
@@ -142,6 +144,8 @@ flag is: `pwn{h0tplug_att4ck5_g0_h4rd}`
 
 # Part 2
 
+## Description
+
 What is being exfiltrated from the endpoint where this capture was taken?
 
 _Hint: We're looking for two file names._
@@ -153,6 +157,8 @@ After we look at the output we got earlier, we can see the  `$content1.Add($file
 Answer : Sam, System
 
 # Part 3
+
+## Description
 
 What URL were the SAM and SYSTEM files exfiltrated to?
 
