@@ -37,7 +37,7 @@ DOM XSS:
 
 # XSS-ის გამოყენება
 
-ამ მაგალითისთვის გამოვიყენებთ [Acunetix Art](http://testphp.vulnweb.com/) ვებსაიტს, რომელიც შექმნილია შეხწევადობების ტესტინგისთვის.
+ამ მაგალითისთვის გამოვიყენებთ [Acunetix Art](testphp.vulnweb.com/) ვებსაიტს, რომელიც შექმნილია შეხწევადობების ტესტინგისთვის.
 
 ![Acunetix1](https://jester-var.github.io/assets/images/xss/xss1.png)
 
