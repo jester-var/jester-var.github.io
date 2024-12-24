@@ -1,5 +1,5 @@
 ---
-title: "Midnight Quack - pwn.christmas"
+title: "The Midnight Quack - pwn.christmas"
 date: 2024-12-23 00:00:00 -0800
 categories: CTF pwn.christmas
 tags: HID Wireshark ProtocolAnalysis
