@@ -7,8 +7,6 @@ tags: crypto
 
 # CTF
 
-## Description
-
 rotten bxgxnnxngs
 
 ```
