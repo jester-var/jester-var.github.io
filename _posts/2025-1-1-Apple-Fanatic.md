@@ -1,3 +1,10 @@
+---
+title: "Apple Fanatic - Advent of CTF "
+date: 2025-01-02 00:00:00 -0800
+categories: CTF AoCTF
+tags: web
+---
+
 
 # CTF
 
